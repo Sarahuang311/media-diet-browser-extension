@@ -33,4 +33,4 @@ The backend server URL is configured in `config.js` (`SERVER_URL`); set it to yo
 
 ## License
 
-TBD.
+This project is licensed under the MIT License - see the LICENSE file for details.
