@@ -1,6 +1,6 @@
 # media-diet-browser-ext
 
-Browser extension for the **Intervenr**, a PennHCI study on the connections between media consumption habits and political bias.
+Browser extension for the **[name redacted for peer review]**, a study on the connections between media consumption habits and political bias.
 
 ## What it does
 
@@ -29,8 +29,7 @@ The backend server URL is configured in `config.js` (`SERVER_URL`); set it to yo
 
 ## Contributors
 
-- Danaé Metaxa
-- Stephanie T. Wang
+[Anonymized for peer review]
 
 ## License
 
